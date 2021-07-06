@@ -1,5 +1,11 @@
-"What is the capital of England?"
-"London"
-"Paris"
-"New York"
+What is the capital of England?
+London
+Paris
+New York
 1
+
+What is a female swan called?
+Sow
+Pen
+Kitten
+2
